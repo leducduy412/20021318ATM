@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1621778136 source:c:\users\admin\desktop\atm\main.cpp
+	"hambotro.h"
+	"mayruttien.h"
+
+1621846070 c:\users\admin\desktop\atm\mayruttien.h
+	"hambotro.h"
+
+1621850789 source:c:\users\admin\desktop\atm\mayruttien.cpp
+	"hambotro.h"
+	"mayruttien.h"
+
+1621845654 source:c:\users\admin\desktop\atm\hambotro.cpp
+	"hambotro.h"
+
+1621844195 c:\users\admin\desktop\atm\hambotro.h
+	<iostream>
+	<string>
+	<fstream>
+	<windows.h>
+	<vector>
+	<sstream>
+	<ctime>
+	<conio.h>
+

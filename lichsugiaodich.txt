@@ -1,0 +1,16 @@
+-----
+[Mon May 24 17:34:49 2021] So tien GD : +500000 VND ( CK tu ltncaplus ). So du hien tai : 2150000 VND.
+-----
+-----
+-----
+-----
+-----
+-----
+[Mon May 24 15:50:01 2021] So tien GD : +200000 VND ( CK tu leducduy412 ). So du hien tai : 2500000 VND.
+-----
+-----
+[Mon May 24 17:33:59 2021] So tien GD : +2300000 VND ( Gui tien ). So du hien tai : 2300000 VND.
+[Mon May 24 17:34:13 2021] So tien GD : -600000 VND ( Rut tien ). So du hien tai : 1700000 VND.
+[Mon May 24 17:34:29 2021] So tien GD : -600000 VND ( Rut tien ). So du hien tai : 1100000 VND.
+[Mon May 24 17:34:49 2021] So tien GD : -500000 VND ( CK toi leducduy412 ). So du hien tai : 600000 VND.
+-----
